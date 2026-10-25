@@ -1,0 +1,16 @@
+{
+  "name": "stsbot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "STS Discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0"
+  }
+}
